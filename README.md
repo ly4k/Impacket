@@ -1,6 +1,8 @@
 Impacket
 ========
 
+This is a modified repository of Impacket. See this [blog post](https://research.ifcr.dk/pass-the-challenge-defeating-credential-guard-31a892eee22) for more information.
+
 [![Latest Version](https://img.shields.io/pypi/v/impacket.svg)](https://pypi.python.org/pypi/impacket/)
 [![Build and test Impacket](https://github.com/fortra/impacket/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/fortra/impacket/actions/workflows/build_and_test.yml)
 
